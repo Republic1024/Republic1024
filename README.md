@@ -1,15 +1,16 @@
 # Hi, Here is Republic! 👋
 
-#### Welcome to my GitHub profile! 🌟
+## Welcome to my GitHub profile! 🌟
 
-🎓 **Education:**  
-🏫Colleage: Ningbo Technology University 
+#### 🎓 **Education**
 
-💻Major: Computer Science and Technology
+##### 🏫Colleage: Ningbo Technology University
+
+##### 💻Major: Computer Science and Technology
 
 
 
-## 🚀 **Career Aspirations**  
+## 🚀 **Career Aspirations**
 
 I aim to pursue a career in AI, data science, and machine learning, focusing on algorithmic development, predictive modeling, and decision support systems. My goal is to create innovative, data-driven solutions to tackle real-world challenges.
 
@@ -20,6 +21,23 @@ I aim to pursue a career in AI, data science, and machine learning, focusing on 
 ## GitHub Stats
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=republic1024&show_icons=true&theme=cobalt)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=republic1024&layout=compact&theme=cobalt)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=republic1024&theme=cobalt)
+
+![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=republic1024&theme=react-dark)
+
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=republic1024&theme=github_dark)
+
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=republic1024&theme=react-dark)
+
+
+
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=republic1024&repo=YOUR_REPO_NAME&theme=cobalt)
 
 
 
