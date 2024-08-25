@@ -1,4 +1,4 @@
-# Hi, This is Republic! 👋
+# Hi, Here is Republic! 👋
 
 #### Welcome to my GitHub profile! 🌟
 
