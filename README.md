@@ -33,11 +33,7 @@ I aim to pursue a career in AI, data science, and machine learning, focusing on 
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=republic1024&theme=react-dark)
 
-
-
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=republic1024&repo=YOUR_REPO_NAME&theme=cobalt)
 
 
 
